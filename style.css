@@ -3,8 +3,12 @@ body {
     color: whitesmoke;
     margin: auto;
     text-align: center;
-    background-image: url(https://i.pinimg.com/736x/59/88/4e/59884ebc4eb16e9afbfbc1482f826312.jpg);
     background-size: cover;
+    background-color: black;
+    background-image: url(https://i.gifer.com/5x4Z.gif);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 div#weather {
