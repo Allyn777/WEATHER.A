@@ -4,8 +4,7 @@ body {
     margin: auto;
     text-align: center;
     background-color:#1C1C1C;
-   
-
+    
 }
 
 div#weather {
@@ -18,8 +17,8 @@ div#weather {
 
 .weatherdata {
     background: linear-gradient(135deg, #1C1C1C,    #808080);
-    margin: 25px; 
-    padding:20px; 
+    margin: 30px; 
+    padding:40px; 
     border-radius: 20px;
     font-size: 20px;
     cursor: pointer;
